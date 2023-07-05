@@ -14,8 +14,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Languages and Technologies:
-<img src="python.png" alt="Python" width="50" height="50"/> 
-<img src="sql.png" alt="SQL" width="50" height="50"/> 
-<img src="pandas.png" alt="Pandas" width="50" height="50"/> 
-<img src="matplotlib.png" alt="Matplotlib" width="50" height="50"/> 
-<img src="tableau.png" alt="Tableau" width="50" height="50"/> 
+- Python
+- SQL
+- Pandas
+- Matplotlib
+- Plotly Express
+- Tableau
